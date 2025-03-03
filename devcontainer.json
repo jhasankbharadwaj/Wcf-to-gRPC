@@ -1,0 +1,10 @@
+{
+  "name": "WCF RAG Pipeline",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:7.0",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.10"
+    }
+  },
+  "postCreateCommand": "pip install pinecone-client sentence-transformers ollama"
+}
