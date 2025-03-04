@@ -1,0 +1,5 @@
+{
+    "persistenceDirectory": "./chroma_db",
+    "collectionName": "wcf_services",
+    "embeddingDimension": 384
+}

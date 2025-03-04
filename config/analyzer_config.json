@@ -1,0 +1,12 @@
+{
+    "projectPath": "/path/to/your/wcf/project/Project.csproj",
+    "includeComments": true,
+    "analyzeDataContracts": true,
+    "excludedNamespaces": [
+        "System",
+        "Microsoft"
+    ]
+}
+
+
+

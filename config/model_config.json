@@ -1,0 +1,6 @@
+{
+    "modelName": "deepseek-coder:33b",
+    "maxTokens": 2048,
+    "temperature": 0.1,
+    "promptTemplate": "Generate a Protocol Buffer definition for the following WCF service:\n{service_description}"
+}
