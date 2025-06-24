@@ -1,0 +1,258 @@
+[
+  {
+    "Kind": "NamespaceDeclaration",
+    "Value": "namespace Name\n{\n    public class person\n    {\n        public person()\n        {\n            Console.WriteLine(\"Hello\");\n        }\n\n         public static void main() {\n            Console.WriteLine(\"hello\");\n         }\n    }\n   \n}"
+  },
+  {
+    "Kind": "NamespaceKeyword",
+    "Value": "namespace"
+  },
+  {
+    "Kind": "IdentifierName",
+    "Value": "Name"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "Name"
+  },
+  {
+    "Kind": "OpenBraceToken",
+    "Value": "{"
+  },
+  {
+    "Kind": "ClassDeclaration",
+    "Value": "public class person\n    {\n        public person()\n        {\n            Console.WriteLine(\"Hello\");\n        }\n\n         public static void main() {\n            Console.WriteLine(\"hello\");\n         }\n    }"
+  },
+  {
+    "Kind": "PublicKeyword",
+    "Value": "public"
+  },
+  {
+    "Kind": "ClassKeyword",
+    "Value": "class"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "person"
+  },
+  {
+    "Kind": "OpenBraceToken",
+    "Value": "{"
+  },
+  {
+    "Kind": "ConstructorDeclaration",
+    "Value": "public person()\n        {\n            Console.WriteLine(\"Hello\");\n        }"
+  },
+  {
+    "Kind": "PublicKeyword",
+    "Value": "public"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "person"
+  },
+  {
+    "Kind": "ParameterList",
+    "Value": "()"
+  },
+  {
+    "Kind": "OpenParenToken",
+    "Value": "("
+  },
+  {
+    "Kind": "CloseParenToken",
+    "Value": ")"
+  },
+  {
+    "Kind": "Block",
+    "Value": "{\n            Console.WriteLine(\"Hello\");\n        }"
+  },
+  {
+    "Kind": "OpenBraceToken",
+    "Value": "{"
+  },
+  {
+    "Kind": "ExpressionStatement",
+    "Value": "Console.WriteLine(\"Hello\");"
+  },
+  {
+    "Kind": "InvocationExpression",
+    "Value": "Console.WriteLine(\"Hello\")"
+  },
+  {
+    "Kind": "SimpleMemberAccessExpression",
+    "Value": "Console.WriteLine"
+  },
+  {
+    "Kind": "IdentifierName",
+    "Value": "Console"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "Console"
+  },
+  {
+    "Kind": "DotToken",
+    "Value": "."
+  },
+  {
+    "Kind": "IdentifierName",
+    "Value": "WriteLine"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "WriteLine"
+  },
+  {
+    "Kind": "ArgumentList",
+    "Value": "(\"Hello\")"
+  },
+  {
+    "Kind": "OpenParenToken",
+    "Value": "("
+  },
+  {
+    "Kind": "Argument",
+    "Value": "\"Hello\""
+  },
+  {
+    "Kind": "StringLiteralExpression",
+    "Value": "\"Hello\""
+  },
+  {
+    "Kind": "StringLiteralToken",
+    "Value": "\"Hello\""
+  },
+  {
+    "Kind": "CloseParenToken",
+    "Value": ")"
+  },
+  {
+    "Kind": "SemicolonToken",
+    "Value": ";"
+  },
+  {
+    "Kind": "CloseBraceToken",
+    "Value": "}"
+  },
+  {
+    "Kind": "MethodDeclaration",
+    "Value": "public static void main() {\n            Console.WriteLine(\"hello\");\n         }"
+  },
+  {
+    "Kind": "PublicKeyword",
+    "Value": "public"
+  },
+  {
+    "Kind": "StaticKeyword",
+    "Value": "static"
+  },
+  {
+    "Kind": "PredefinedType",
+    "Value": "void"
+  },
+  {
+    "Kind": "VoidKeyword",
+    "Value": "void"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "main"
+  },
+  {
+    "Kind": "ParameterList",
+    "Value": "()"
+  },
+  {
+    "Kind": "OpenParenToken",
+    "Value": "("
+  },
+  {
+    "Kind": "CloseParenToken",
+    "Value": ")"
+  },
+  {
+    "Kind": "Block",
+    "Value": "{\n            Console.WriteLine(\"hello\");\n         }"
+  },
+  {
+    "Kind": "OpenBraceToken",
+    "Value": "{"
+  },
+  {
+    "Kind": "ExpressionStatement",
+    "Value": "Console.WriteLine(\"hello\");"
+  },
+  {
+    "Kind": "InvocationExpression",
+    "Value": "Console.WriteLine(\"hello\")"
+  },
+  {
+    "Kind": "SimpleMemberAccessExpression",
+    "Value": "Console.WriteLine"
+  },
+  {
+    "Kind": "IdentifierName",
+    "Value": "Console"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "Console"
+  },
+  {
+    "Kind": "DotToken",
+    "Value": "."
+  },
+  {
+    "Kind": "IdentifierName",
+    "Value": "WriteLine"
+  },
+  {
+    "Kind": "IdentifierToken",
+    "Value": "WriteLine"
+  },
+  {
+    "Kind": "ArgumentList",
+    "Value": "(\"hello\")"
+  },
+  {
+    "Kind": "OpenParenToken",
+    "Value": "("
+  },
+  {
+    "Kind": "Argument",
+    "Value": "\"hello\""
+  },
+  {
+    "Kind": "StringLiteralExpression",
+    "Value": "\"hello\""
+  },
+  {
+    "Kind": "StringLiteralToken",
+    "Value": "\"hello\""
+  },
+  {
+    "Kind": "CloseParenToken",
+    "Value": ")"
+  },
+  {
+    "Kind": "SemicolonToken",
+    "Value": ";"
+  },
+  {
+    "Kind": "CloseBraceToken",
+    "Value": "}"
+  },
+  {
+    "Kind": "CloseBraceToken",
+    "Value": "}"
+  },
+  {
+    "Kind": "CloseBraceToken",
+    "Value": "}"
+  },
+  {
+    "Kind": "EndOfFileToken",
+    "Value": ""
+  }
+]

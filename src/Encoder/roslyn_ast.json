@@ -1,0 +1,417 @@
+{
+  "Kind": "CompilationUnit",
+  "Text": null,
+  "Children": [
+    {
+      "Kind": "NamespaceDeclaration",
+      "Text": null,
+      "Children": [
+        {
+          "Kind": "NamespaceKeyword",
+          "Text": "namespace",
+          "Children": [],
+          "IsTerminal": true
+        },
+        {
+          "Kind": "IdentifierName",
+          "Text": null,
+          "Children": [
+            {
+              "Kind": "IdentifierToken",
+              "Text": "Name",
+              "Children": [],
+              "IsTerminal": true
+            }
+          ],
+          "IsTerminal": false
+        },
+        {
+          "Kind": "OpenBraceToken",
+          "Text": "{",
+          "Children": [],
+          "IsTerminal": true
+        },
+        {
+          "Kind": "ClassDeclaration",
+          "Text": null,
+          "Children": [
+            {
+              "Kind": "PublicKeyword",
+              "Text": "public",
+              "Children": [],
+              "IsTerminal": true
+            },
+            {
+              "Kind": "ClassKeyword",
+              "Text": "class",
+              "Children": [],
+              "IsTerminal": true
+            },
+            {
+              "Kind": "IdentifierToken",
+              "Text": "person",
+              "Children": [],
+              "IsTerminal": true
+            },
+            {
+              "Kind": "OpenBraceToken",
+              "Text": "{",
+              "Children": [],
+              "IsTerminal": true
+            },
+            {
+              "Kind": "ConstructorDeclaration",
+              "Text": null,
+              "Children": [
+                {
+                  "Kind": "PublicKeyword",
+                  "Text": "public",
+                  "Children": [],
+                  "IsTerminal": true
+                },
+                {
+                  "Kind": "IdentifierToken",
+                  "Text": "person",
+                  "Children": [],
+                  "IsTerminal": true
+                },
+                {
+                  "Kind": "ParameterList",
+                  "Text": null,
+                  "Children": [
+                    {
+                      "Kind": "OpenParenToken",
+                      "Text": "(",
+                      "Children": [],
+                      "IsTerminal": true
+                    },
+                    {
+                      "Kind": "CloseParenToken",
+                      "Text": ")",
+                      "Children": [],
+                      "IsTerminal": true
+                    }
+                  ],
+                  "IsTerminal": false
+                },
+                {
+                  "Kind": "Block",
+                  "Text": null,
+                  "Children": [
+                    {
+                      "Kind": "OpenBraceToken",
+                      "Text": "{",
+                      "Children": [],
+                      "IsTerminal": true
+                    },
+                    {
+                      "Kind": "ExpressionStatement",
+                      "Text": null,
+                      "Children": [
+                        {
+                          "Kind": "InvocationExpression",
+                          "Text": null,
+                          "Children": [
+                            {
+                              "Kind": "SimpleMemberAccessExpression",
+                              "Text": null,
+                              "Children": [
+                                {
+                                  "Kind": "IdentifierName",
+                                  "Text": null,
+                                  "Children": [
+                                    {
+                                      "Kind": "IdentifierToken",
+                                      "Text": "Console",
+                                      "Children": [],
+                                      "IsTerminal": true
+                                    }
+                                  ],
+                                  "IsTerminal": false
+                                },
+                                {
+                                  "Kind": "DotToken",
+                                  "Text": ".",
+                                  "Children": [],
+                                  "IsTerminal": true
+                                },
+                                {
+                                  "Kind": "IdentifierName",
+                                  "Text": null,
+                                  "Children": [
+                                    {
+                                      "Kind": "IdentifierToken",
+                                      "Text": "WriteLine",
+                                      "Children": [],
+                                      "IsTerminal": true
+                                    }
+                                  ],
+                                  "IsTerminal": false
+                                }
+                              ],
+                              "IsTerminal": false
+                            },
+                            {
+                              "Kind": "ArgumentList",
+                              "Text": null,
+                              "Children": [
+                                {
+                                  "Kind": "OpenParenToken",
+                                  "Text": "(",
+                                  "Children": [],
+                                  "IsTerminal": true
+                                },
+                                {
+                                  "Kind": "Argument",
+                                  "Text": null,
+                                  "Children": [
+                                    {
+                                      "Kind": "StringLiteralExpression",
+                                      "Text": null,
+                                      "Children": [
+                                        {
+                                          "Kind": "StringLiteralToken",
+                                          "Text": "\"Hello\"",
+                                          "Children": [],
+                                          "IsTerminal": true
+                                        }
+                                      ],
+                                      "IsTerminal": false
+                                    }
+                                  ],
+                                  "IsTerminal": false
+                                },
+                                {
+                                  "Kind": "CloseParenToken",
+                                  "Text": ")",
+                                  "Children": [],
+                                  "IsTerminal": true
+                                }
+                              ],
+                              "IsTerminal": false
+                            }
+                          ],
+                          "IsTerminal": false
+                        },
+                        {
+                          "Kind": "SemicolonToken",
+                          "Text": ";",
+                          "Children": [],
+                          "IsTerminal": true
+                        }
+                      ],
+                      "IsTerminal": false
+                    },
+                    {
+                      "Kind": "CloseBraceToken",
+                      "Text": "}",
+                      "Children": [],
+                      "IsTerminal": true
+                    }
+                  ],
+                  "IsTerminal": false
+                }
+              ],
+              "IsTerminal": false
+            },
+            {
+              "Kind": "MethodDeclaration",
+              "Text": null,
+              "Children": [
+                {
+                  "Kind": "PublicKeyword",
+                  "Text": "public",
+                  "Children": [],
+                  "IsTerminal": true
+                },
+                {
+                  "Kind": "StaticKeyword",
+                  "Text": "static",
+                  "Children": [],
+                  "IsTerminal": true
+                },
+                {
+                  "Kind": "PredefinedType",
+                  "Text": null,
+                  "Children": [
+                    {
+                      "Kind": "VoidKeyword",
+                      "Text": "void",
+                      "Children": [],
+                      "IsTerminal": true
+                    }
+                  ],
+                  "IsTerminal": false
+                },
+                {
+                  "Kind": "IdentifierToken",
+                  "Text": "main",
+                  "Children": [],
+                  "IsTerminal": true
+                },
+                {
+                  "Kind": "ParameterList",
+                  "Text": null,
+                  "Children": [
+                    {
+                      "Kind": "OpenParenToken",
+                      "Text": "(",
+                      "Children": [],
+                      "IsTerminal": true
+                    },
+                    {
+                      "Kind": "CloseParenToken",
+                      "Text": ")",
+                      "Children": [],
+                      "IsTerminal": true
+                    }
+                  ],
+                  "IsTerminal": false
+                },
+                {
+                  "Kind": "Block",
+                  "Text": null,
+                  "Children": [
+                    {
+                      "Kind": "OpenBraceToken",
+                      "Text": "{",
+                      "Children": [],
+                      "IsTerminal": true
+                    },
+                    {
+                      "Kind": "ExpressionStatement",
+                      "Text": null,
+                      "Children": [
+                        {
+                          "Kind": "InvocationExpression",
+                          "Text": null,
+                          "Children": [
+                            {
+                              "Kind": "SimpleMemberAccessExpression",
+                              "Text": null,
+                              "Children": [
+                                {
+                                  "Kind": "IdentifierName",
+                                  "Text": null,
+                                  "Children": [
+                                    {
+                                      "Kind": "IdentifierToken",
+                                      "Text": "Console",
+                                      "Children": [],
+                                      "IsTerminal": true
+                                    }
+                                  ],
+                                  "IsTerminal": false
+                                },
+                                {
+                                  "Kind": "DotToken",
+                                  "Text": ".",
+                                  "Children": [],
+                                  "IsTerminal": true
+                                },
+                                {
+                                  "Kind": "IdentifierName",
+                                  "Text": null,
+                                  "Children": [
+                                    {
+                                      "Kind": "IdentifierToken",
+                                      "Text": "WriteLine",
+                                      "Children": [],
+                                      "IsTerminal": true
+                                    }
+                                  ],
+                                  "IsTerminal": false
+                                }
+                              ],
+                              "IsTerminal": false
+                            },
+                            {
+                              "Kind": "ArgumentList",
+                              "Text": null,
+                              "Children": [
+                                {
+                                  "Kind": "OpenParenToken",
+                                  "Text": "(",
+                                  "Children": [],
+                                  "IsTerminal": true
+                                },
+                                {
+                                  "Kind": "Argument",
+                                  "Text": null,
+                                  "Children": [
+                                    {
+                                      "Kind": "StringLiteralExpression",
+                                      "Text": null,
+                                      "Children": [
+                                        {
+                                          "Kind": "StringLiteralToken",
+                                          "Text": "\"hello\"",
+                                          "Children": [],
+                                          "IsTerminal": true
+                                        }
+                                      ],
+                                      "IsTerminal": false
+                                    }
+                                  ],
+                                  "IsTerminal": false
+                                },
+                                {
+                                  "Kind": "CloseParenToken",
+                                  "Text": ")",
+                                  "Children": [],
+                                  "IsTerminal": true
+                                }
+                              ],
+                              "IsTerminal": false
+                            }
+                          ],
+                          "IsTerminal": false
+                        },
+                        {
+                          "Kind": "SemicolonToken",
+                          "Text": ";",
+                          "Children": [],
+                          "IsTerminal": true
+                        }
+                      ],
+                      "IsTerminal": false
+                    },
+                    {
+                      "Kind": "CloseBraceToken",
+                      "Text": "}",
+                      "Children": [],
+                      "IsTerminal": true
+                    }
+                  ],
+                  "IsTerminal": false
+                }
+              ],
+              "IsTerminal": false
+            },
+            {
+              "Kind": "CloseBraceToken",
+              "Text": "}",
+              "Children": [],
+              "IsTerminal": true
+            }
+          ],
+          "IsTerminal": false
+        },
+        {
+          "Kind": "CloseBraceToken",
+          "Text": "}",
+          "Children": [],
+          "IsTerminal": true
+        }
+      ],
+      "IsTerminal": false
+    },
+    {
+      "Kind": "EndOfFileToken",
+      "Text": "",
+      "Children": [],
+      "IsTerminal": true
+    }
+  ],
+  "IsTerminal": false
+}

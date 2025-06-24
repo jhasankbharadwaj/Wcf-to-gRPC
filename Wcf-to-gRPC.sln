@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{BFF2DF6E-AA54-47C7-211F-79ACCBB4577C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCFCode", "WCFCode", "{FF094EFD-3277-751E-B4F3-8A07CBD57CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxTreeDemo", "src\Common\WCFCode\SyntaxTreeDemo\SyntaxTreeDemo.csproj", "{571D25D0-F928-BDC7-F827-533B3B1FAE7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#class", "src\Common\WCFCode\c#class\c#class.csproj", "{9729EDC1-0A23-0A40-3B64-0FEB33A6F1E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{571D25D0-F928-BDC7-F827-533B3B1FAE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571D25D0-F928-BDC7-F827-533B3B1FAE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571D25D0-F928-BDC7-F827-533B3B1FAE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571D25D0-F928-BDC7-F827-533B3B1FAE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9729EDC1-0A23-0A40-3B64-0FEB33A6F1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9729EDC1-0A23-0A40-3B64-0FEB33A6F1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9729EDC1-0A23-0A40-3B64-0FEB33A6F1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9729EDC1-0A23-0A40-3B64-0FEB33A6F1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BFF2DF6E-AA54-47C7-211F-79ACCBB4577C} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{FF094EFD-3277-751E-B4F3-8A07CBD57CB2} = {BFF2DF6E-AA54-47C7-211F-79ACCBB4577C}
+		{571D25D0-F928-BDC7-F827-533B3B1FAE7A} = {FF094EFD-3277-751E-B4F3-8A07CBD57CB2}
+		{9729EDC1-0A23-0A40-3B64-0FEB33A6F1E8} = {FF094EFD-3277-751E-B4F3-8A07CBD57CB2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9395B3-CDB4-4100-AC41-97CC88AB8D67}
+	EndGlobalSection
+EndGlobal

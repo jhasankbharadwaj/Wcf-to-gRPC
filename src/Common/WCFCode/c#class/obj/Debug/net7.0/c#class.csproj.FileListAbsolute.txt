@@ -1,0 +1,14 @@
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/bin/Debug/net7.0/c#class
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/bin/Debug/net7.0/c#class.deps.json
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/bin/Debug/net7.0/c#class.runtimeconfig.json
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/bin/Debug/net7.0/c#class.dll
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/bin/Debug/net7.0/c#class.pdb
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.AssemblyInfoInputs.cache
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.AssemblyInfo.cs
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.csproj.CoreCompileInputs.cache
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.dll
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/refint/c#class.dll
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.pdb
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/c#class.genruntimeconfig.cache
+/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/obj/Debug/net7.0/ref/c#class.dll
