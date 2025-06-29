@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eil+1aTrHl6QChmOnn3j6jTXFc2Yoid02T0pq9rguuxI2O5+2Q5I51hv+xEMWkbU8tb7LpSWNePh2BBaEaXkCg==",
+  "dgSpecHash": "NXSRP4z21Pry3m/ovQNQL4qoCZt47dg3OQm6+TyULdDrG3Hwvf7o/2tD//UI7Efr4VL1aMcQjEYZ93bFc22+Ng==",
   "success": true,
   "projectFilePath": "/workspaces/Wcf-to-gRPC/src/Common/WCFCode/SyntaxTreeDemo/SyntaxTreeDemo.csproj",
   "expectedPackageFiles": [
