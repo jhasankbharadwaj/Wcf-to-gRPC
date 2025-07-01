@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xLCGz46Jgb7f472uRPCEoxkhSgmTUyXy92XyWf/o6edfV0567A1hDjGAw/mh4Qt7s1eahyTXRCikOwsZkizy8A==",
+  "dgSpecHash": "9s/xCwZFEPA=",
   "success": true,
-  "projectFilePath": "/workspaces/Wcf-to-gRPC/src/Common/WCFCode/c#class/c#class.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jhasa\\Source\\Repos\\Wcf-to-gRPC\\src\\Common\\WCFCode\\c#class\\c#class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhasa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\jhasa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\jhasa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\jhasa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
